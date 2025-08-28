@@ -1,0 +1,7 @@
+pandas
+numpy
+gensim
+pyLDAvis
+matplotlib
+python-dateutil
+jupyterlab
